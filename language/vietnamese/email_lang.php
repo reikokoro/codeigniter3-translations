@@ -10,7 +10,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['email_must_be_array'] = 'Phương thức xác thực email phải được truyền qua một mảng.';
-$lang['email_invalid_address'] = 'Địa chỉ email hợp lệ (ví dụ: name@example.com): %s';
+$lang['email_invalid_address'] = 'Địa chỉ email không hợp lệ (ví dụ email hợp lệ: name@example.com): %s';
 $lang['email_attachment_missing'] = 'Không thể xác định (Vị trí) các tập tin đính kèm: %s';
 $lang['email_attachment_unreadable'] = 'Không thể mở tập tin đính kèm: %s';
 $lang['email_no_from'] = 'Không thể gửi thư không có header "From".';
